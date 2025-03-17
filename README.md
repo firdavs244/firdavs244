@@ -56,41 +56,27 @@
 | 🔍 **Monitoring & Logging** | ![CloudWatch](https://img.shields.io/badge/-CloudWatch-FF4F00?style=flat-square&logo=amazoncloudwatch&logoColor=white) ![X-Ray](https://img.shields.io/badge/-X--Ray-232F3E?style=flat-square&logo=amazon&logoColor=white) ![CloudTrail](https://img.shields.io/badge/-CloudTrail-0052CC?style=flat-square&logo=amazon&logoColor=white) |
 | 🛠️ **Dev Tools**       | ![AWS CLI](https://img.shields.io/badge/-AWS%20CLI-232F3E?style=flat-square&logo=windows-terminal&logoColor=white) ![AWS SDK](https://img.shields.io/badge/-AWS%20SDK-FF9900?style=flat-square&logo=python&logoColor=white) ![CI/CD](https://img.shields.io/badge/-CodePipeline%20%7C%20CodeDeploy-FF9900?style=flat-square&logo=githubactions&logoColor=white) |
 
-📘 **What I’ve Learned**  
-- Passed the **AWS Certified Developer Associate** exam (DVA-C02)  
-- Deployed applications using **Elastic Beanstalk** and AWS CI/CD tools with full automation  
-- Built **serverless APIs** using **Lambda, API Gateway, DynamoDB, and Cognito**  
-- Created infrastructure using **AWS CloudFormation**  
-- Implemented **SQS, SNS, and Kinesis** for messaging/integration  
-- Secured cloud environments using **IAM, KMS, SSM, and Encryption SDK**  
-- Monitored & debugged microservices with **CloudWatch, X-Ray, and CloudTrail**  
-- Mastered usage of **CLI, SDKs, and IAM security best practices**
-
----
-
-✅ *Ready to apply AWS services to real-world developer projects with confidence and automation.*
-
 
 ## 🧱 Software Architecture & Design
 
 ### 🧩 Design & Architecture
 
-- **DDD (Domain-Driven Design)**: Familiar with entity modeling, aggregates, value objects, repositories, services, and bounded contexts. I aim to build business-centric applications by separating core domain logic from infrastructure.
-  
-- **MVC (Model-View-Controller)**: Experienced in implementing MVC architecture in both Laravel and Django, ensuring clear separation of concerns for scalable and maintainable codebases.
+| 🧠 Concepts                  | 💡 Description |
+|-----------------------------|----------------|
+| ![DDD](https://img.shields.io/badge/-DDD-%23007ACC?style=flat&logo=databricks&logoColor=white) | **Domain-Driven Design** — Experienced in entity modeling, aggregates, value objects, repositories, services, and bounded contexts to build business-oriented applications. |
+| ![MVC](https://img.shields.io/badge/-MVC-%23FF5722?style=flat&logo=laravel&logoColor=white) | **Model-View-Controller** — Applied in both Laravel and Django to enforce clean separation of concerns for scalable and maintainable codebases. |
+| ![Clean Code](https://img.shields.io/badge/-Clean%20Code-%2300C853?style=flat&logo=leaflet&logoColor=white) | **Clean Code Principles** — Follow SOLID principles, meaningful naming, small functions, and readability-first practices to ensure maintainability and testability. |
 
-- **Clean Code Principles**: I follow SOLID principles, meaningful naming, small functions, and readability-first practices to write maintainable and testable code.
+### 🧰 Design Patterns I Use
 
-- **Design Patterns**:
-  - Factory
-  - Repository
-  - Strategy
-  - Observer
-  - Singleton
-  - Service Layer
-
----
-
+| 📐 Pattern Type   | 🔖 Badge |
+|------------------|----------|
+| Factory Pattern  | ![Factory](https://img.shields.io/badge/-Factory%20Pattern-%236A1B9A?style=flat&logo=codefactor&logoColor=white) |
+| Repository       | ![Repository](https://img.shields.io/badge/-Repository-%232E7D32?style=flat&logo=git&logoColor=white) |
+| Strategy         | ![Strategy](https://img.shields.io/badge/-Strategy-%23005588?style=flat&logo=strapi&logoColor=white) |
+| Observer         | ![Observer](https://img.shields.io/badge/-Observer-%23F57C00?style=flat&logo=graphql&logoColor=white) |
+| Singleton        | ![Singleton](https://img.shields.io/badge/-Singleton-%239C27B0?style=flat&logo=circle&logoColor=white) |
+| Service Layer    | ![Service Layer](https://img.shields.io/badge/-Service%20Layer-%230094FF?style=flat&logo=datadog&logoColor=white) |
 
 ---
 
