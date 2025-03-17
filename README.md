@@ -42,8 +42,43 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### ☁️ Cloud & Services
+
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws)
-*Experienced with EC2, S3, RDS, IAM, and ECR*
+
+**🔸 AWS Certified Developer – Associate (DVA-C02)**  
+Successfully passed the certification with real-world projects and hands-on labs.
+
+---
+
+#### 🚀 Services & Tools I Work With:
+
+| Category                | Services & Tools                                                                 |
+|-------------------------|----------------------------------------------------------------------------------|
+| 🖥️ Compute              | ![EC2](https://img.shields.io/badge/-EC2-FF9900?style=flat&logo=amazonec2)  ![Elastic Beanstalk](https://img.shields.io/badge/-Elastic%20Beanstalk-569A31?style=flat&logo=awslambda) |
+| 💾 Storage & Databases  | ![S3](https://img.shields.io/badge/-S3-569A31?style=flat&logo=amazons3) ![RDS](https://img.shields.io/badge/-RDS-527FFF?style=flat&logo=amazonrds) ![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?style=flat&logo=amazondynamodb) ![ECR](https://img.shields.io/badge/-ECR-FF9900?style=flat&logo=docker) |
+| 🌐 Networking & APIs    | ![API Gateway](https://img.shields.io/badge/-API%20Gateway-FF4F00?style=flat&logo=apachespark) ![AWS Lambda](https://img.shields.io/badge/-Lambda-FE7A16?style=flat&logo=awslambda) ![Cognito](https://img.shields.io/badge/-Cognito-3B5998?style=flat&logo=amazon) |
+| 🧱 Infrastructure as Code | ![CloudFormation](https://img.shields.io/badge/-CloudFormation-D93F0B?style=flat&logo=awscloud) |
+| 🔔 Messaging & Events   | ![SQS](https://img.shields.io/badge/-SQS-232F3E?style=flat&logo=amazonsqs) ![SNS](https://img.shields.io/badge/-SNS-FF9900?style=flat&logo=amazon) ![Kinesis](https://img.shields.io/badge/-Kinesis-3F75FF?style=flat&logo=amazonkinesis) |
+| 🔐 Security & IAM       | ![IAM](https://img.shields.io/badge/-IAM-232F3E?style=flat&logo=amazon) ![KMS](https://img.shields.io/badge/-KMS-FFB300?style=flat&logo=security) ![SSM](https://img.shields.io/badge/-SSM-7952B3?style=flat&logo=amazons3) ![Encryption SDK](https://img.shields.io/badge/-Encryption%20SDK-006400?style=flat&logo=security) |
+| 🔍 Monitoring & Logging | ![CloudWatch](https://img.shields.io/badge/-CloudWatch-FF4F00?style=flat&logo=amazoncloudwatch) ![X-Ray](https://img.shields.io/badge/-X--Ray-232F3E?style=flat&logo=amazon) ![CloudTrail](https://img.shields.io/badge/-CloudTrail-0052CC?style=flat&logo=amazon) |
+| 🛠️ Developer Tools      | ![AWS CLI](https://img.shields.io/badge/-AWS%20CLI-232F3E?style=flat&logo=windows-terminal) ![AWS SDK](https://img.shields.io/badge/-AWS%20SDK-FF9900?style=flat&logo=python) ![CI/CD Tools](https://img.shields.io/badge/-CodePipeline%20%7C%20CodeDeploy-FF9900?style=flat&logo=githubactions) |
+
+---
+
+📘 **What I’ve Learned**  
+- Passed the **AWS Certified Developer Associate** exam (DVA-C02)  
+- Deployed applications using **Elastic Beanstalk** and AWS CI/CD tools with full automation  
+- Built **serverless APIs** using **Lambda, API Gateway, DynamoDB, and Cognito**  
+- Created infrastructure using **AWS CloudFormation**  
+- Implemented **SQS, SNS, and Kinesis** for messaging/integration  
+- Secured cloud environments using **IAM, KMS, SSM, and Encryption SDK**  
+- Monitored & debugged microservices with **CloudWatch, X-Ray, and CloudTrail**  
+- Mastered usage of **CLI, SDKs, and IAM security best practices**
+
+---
+
+✅ *Ready to apply AWS services to real-world developer projects with confidence and automation.*
+
 
 ## 🧱 Software Architecture & Design
 
