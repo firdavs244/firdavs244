@@ -69,14 +69,8 @@
 
 ### 🧰 Design Patterns I Use
 
-| 📐 Pattern Type   | 🔖 Badge |
-|------------------|----------|
-| Factory Pattern  | ![Factory](https://img.shields.io/badge/-Factory%20Pattern-%236A1B9A?style=flat&logo=codefactor&logoColor=white) |
-| Repository       | ![Repository](https://img.shields.io/badge/-Repository-%232E7D32?style=flat&logo=git&logoColor=white) |
-| Strategy         | ![Strategy](https://img.shields.io/badge/-Strategy-%23005588?style=flat&logo=strapi&logoColor=white) |
-| Observer         | ![Observer](https://img.shields.io/badge/-Observer-%23F57C00?style=flat&logo=graphql&logoColor=white) |
-| Singleton        | ![Singleton](https://img.shields.io/badge/-Singleton-%239C27B0?style=flat&logo=circle&logoColor=white) |
-| Service Layer    | ![Service Layer](https://img.shields.io/badge/-Service%20Layer-%230094FF?style=flat&logo=datadog&logoColor=white) |
+![Factory](https://img.shields.io/badge/-Factory%20Pattern-%236A1B9A?style=flat&logo=codefactor&logoColor=white) ![Repository](https://img.shields.io/badge/-Repository-%232E7D32?style=flat&logo=git&logoColor=white) ![Strategy](https://img.shields.io/badge/-Strategy-%23005588?style=flat&logo=strapi&logoColor=white) 
+![Observer](https://img.shields.io/badge/-Observer-%23F57C00?style=flat&logo=graphql&logoColor=white) ![Singleton](https://img.shields.io/badge/-Singleton-%239C27B0?style=flat&logo=circle&logoColor=white) ![Service Layer](https://img.shields.io/badge/-Service%20Layer-%230094FF?style=flat&logo=datadog&logoColor=white)
 
 ---
 
