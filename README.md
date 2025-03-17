@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Firdavs.
+# 👋 Hi there! I'm Firdavs Kholov.
 
 🎯 I'm a backend and full-stack web developer  
 ⚡️ I build secure, scalable, and efficient applications using Laravel, Django, PostgreSQL, Docker, and other modern tools.  
