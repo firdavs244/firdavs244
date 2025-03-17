@@ -45,16 +45,6 @@
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws)
 *Experienced with EC2, S3, RDS, IAM, and ECR*
 
----
-
-## 📈 What I'm Currently Focusing On
-
-- Deepening my knowledge of microservice architecture  
-- Improving CI/CD pipelines using Docker and GitHub Actions  
-- Contributing to open-source projects and writing clean, testable code
-
----
-
 ## 🧱 Software Architecture & Design
 
 ### 🧩 Design & Architecture
@@ -75,16 +65,15 @@
 
 ---
 
-## 📊 Data Structures & Algorithms
 
-- Arrays, Linked Lists, Stacks, Queues  
-- Hash Tables, Sets, Maps  
-- Trees (Binary Tree, BST, Trie)  
-- Graphs (DFS, BFS traversal)  
-- Sorting Algorithms (QuickSort, MergeSort, Bubble Sort)  
-- Searching (Binary Search, Linear Search)  
-- Recursion & Dynamic Programming Basics
+---
 
-> I'm continuously improving my algorithmic thinking and code performance through problem-solving platforms like LeetCode and HackerRank.
+## 📈 What I'm Currently Focusing On
+
+- Deepening my knowledge of microservice architecture  
+- Improving CI/CD pipelines using Docker and GitHub Actions  
+- Contributing to open-source projects and writing clean, testable code
+
+---
 
 > 🎯 “Code is more than just technology — it's a way of thinking.”
