@@ -55,4 +55,36 @@
 
 ---
 
+## 🧱 Software Architecture & Design
+
+### 🧩 Design & Architecture
+
+- **DDD (Domain-Driven Design)**: Familiar with entity modeling, aggregates, value objects, repositories, services, and bounded contexts. I aim to build business-centric applications by separating core domain logic from infrastructure.
+  
+- **MVC (Model-View-Controller)**: Experienced in implementing MVC architecture in both Laravel and Django, ensuring clear separation of concerns for scalable and maintainable codebases.
+
+- **Clean Code Principles**: I follow SOLID principles, meaningful naming, small functions, and readability-first practices to write maintainable and testable code.
+
+- **Design Patterns**:
+  - Factory
+  - Repository
+  - Strategy
+  - Observer
+  - Singleton
+  - Service Layer
+
+---
+
+## 📊 Data Structures & Algorithms
+
+- Arrays, Linked Lists, Stacks, Queues  
+- Hash Tables, Sets, Maps  
+- Trees (Binary Tree, BST, Trie)  
+- Graphs (DFS, BFS traversal)  
+- Sorting Algorithms (QuickSort, MergeSort, Bubble Sort)  
+- Searching (Binary Search, Linear Search)  
+- Recursion & Dynamic Programming Basics
+
+> I'm continuously improving my algorithmic thinking and code performance through problem-solving platforms like LeetCode and HackerRank.
+
 > 🎯 “Code is more than just technology — it's a way of thinking.”
