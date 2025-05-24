@@ -19,7 +19,7 @@
 const firdavs: Developer = {
   name: "Firdavs Kholov",
   role: "Backend & Full-Stack Developer",
-  location: "🌍 Remote",
+  location: "🌍 Uzbekistan 🇺🇿",
   passion: ["Clean Code", "Scalable Architecture", "Innovation"],
   currentFocus: [
     "🏗️ Microservices Architecture",
