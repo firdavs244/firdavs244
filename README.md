@@ -1,238 +1,520 @@
-# 👋 Hi there! I'm **Firdavs Kholov**
+# 🚀 Welcome to My Digital Universe
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Backend+%26+Full-Stack+Developer;Building+Scalable+%26+Secure+Applications;Always+Learning+%26+Growing)](https://git.io/typing-svg)
+![Header Animation](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=300&section=header&text=Firdavs%20Kholov&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Backend%20%26%20Full-Stack%20Architect&descAlignY=55&descSize=20)
 
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=firdavs244&color=6366f1&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/firdavs244?color=6366f1&style=for-the-badge&logo=github&label=Followers" alt="GitHub Followers" />
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=500&color=667EEA&center=true&vCenter=true&multiline=true&width=1000&height=150&lines=%E2%9A%A1+Crafting+Digital+Experiences;%F0%9F%8F%97%EF%B8%8F+Building+Scalable+Architecture;%F0%9F%94%92+Securing+Applications;%E2%98%81%EF%B8%8F+Cloud-Native+Solutions;%F0%9F%9A%80+Always+Innovating)](https://git.io/typing-svg)
+
 </div>
 
----
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=firdavs244&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/firdavs244?color=blueviolet&style=for-the-badge&logo=github&label=Followers" alt="GitHub Followers" />
+  <img src="https://img.shields.io/badge/Focus-Backend%20Development-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Hire-success?style=for-the-badge" />
+</div>
 
-## 🚀 **About Me**
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🌟 About Me
+
+<table align="center">
+<tr>
+<td width="50%">
 
 ```typescript
+interface Developer {
+  name: string;
+  role: string[];
+  location: string;
+  passion: string[];
+  architecture: string[];
+  motto: string;
+}
+
 const firdavs: Developer = {
   name: "Firdavs Kholov",
-  role: "Backend & Full-Stack Developer",
-  location: "🌍 Uzbekistan",
-  passion: ["Clean Code", "Scalable Architecture", "Innovation"],
-  currentFocus: [
-    "🏗️ Microservices Architecture",
-    "☁️ Cloud-Native Applications", 
-    "🔄 DevOps & CI/CD Automation",
-    "🧠 System Design Patterns"
+  role: [
+    "🎯 Backend Architect",
+    "🌐 Full-Stack Developer", 
+    "☁️ Cloud Engineer",
+    "🔧 DevOps Enthusiast"
   ],
-  motto: "Code is more than technology — it's a way of thinking 💭"
+  location: "🇺🇿 Uzbekistan",
+  passion: [
+    "Clean Architecture",
+    "Scalable Systems", 
+    "Innovation & Learning"
+  ],
+  architecture: [
+    "🏗️ Microservices",
+    "🔄 Event-Driven",
+    "🛡️ Security-First",
+    "📊 Observable Systems"
+  ],
+  motto: "Code is poetry in motion 🎭"
 };
 ```
+
+</td>
+<td width="50%">
 
 <div align="center">
 
 ### 🎯 **Core Expertise**
 
+```mermaid
+mindmap
+  root((🚀 Firdavs))
+    Backend
+      🏗️ Architecture
+      🔒 Security
+      📊 Performance
+      🔄 APIs
+    Cloud
+      ☁️ AWS
+      🐳 Docker  
+      ⚙️ K8s
+      🔧 DevOps
+    Frontend
+      ⚛️ React
+      🎨 Modern CSS
+      📱 Responsive
+      🌟 UX/UI
+    Database
+      🗄️ SQL/NoSQL
+      🔍 Optimization
+      📈 Scaling
+      💾 Caching
+```
+
 </div>
-
-<table align="center">
-<tr>
-<td align="center" width="33%">
-
-**🏗️ Backend Architecture**
-<br>
-Building robust, scalable APIs and microservices with clean architecture principles
-
-</td>
-<td align="center" width="33%">
-
-**☁️ Cloud & DevOps**
-<br>
-Deploying and managing applications on AWS with Docker, Kubernetes, and CI/CD
-
-</td>
-<td align="center" width="33%">
-
-**🔒 Security & Performance**
-<br>
-Implementing secure authentication, optimization, and monitoring solutions
 
 </td>
 </tr>
 </table>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🛠️ **Tech Arsenal**
+## 🛠️ **Technology Ecosystem**
+
+<details open>
+<summary><b>🎨 Frontend Technologies</b></summary>
+<br>
 
 <div align="center">
 
-### **💻 Frontend**
+| **Core** | **Frameworks** | **Styling** |
+|:--------:|:--------------:|:-----------:|
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) | ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) |
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+</div>
 
-### **🧠 Backend**
+</details>
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+<details open>
+<summary><b>🧠 Backend Powerhouse</b></summary>
+<br>
+
+<div align="center">
+
+### **🐍 Python Ecosystem**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white)
-![Lumen](https://img.shields.io/badge/Lumen-E74430?style=for-the-badge&logo=laravel&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/DRF-red?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### **🗄️ Databases**
+### **🐘 PHP Ecosystem**  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white)
+![Lumen](https://img.shields.io/badge/Lumen-E74430?style=for-the-badge&logo=laravel&logoColor=white)
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+</div>
 
-### **⚙️ DevOps & Tools**
+</details>
 
+<details open>
+<summary><b>🗄️ Data Management</b></summary>
+<br>
+
+<div align="center">
+
+| **Relational** | **NoSQL** | **Caching** |
+|:--------------:|:---------:|:-----------:|
+| ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) | ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) |
+| ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) | ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white) | ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white) |
+| ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) | |
+
+</div>
+
+</details>
+
+<details open>
+<summary><b>⚙️ DevOps & Infrastructure</b></summary>
+<br>
+
+<div align="center">
+
+### **🐳 Containerization & Orchestration**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Docker Swarm](https://img.shields.io/badge/Docker_Swarm-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+
+### **🔄 CI/CD & Version Control**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
+
+### **🌐 Web Servers & Networking**
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+
+### **🐧 Operating Systems**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![CentOS](https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white)
 
 </div>
 
----
+</details>
 
-## ☁️ **Cloud & Services**
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+## ☁️ **AWS Cloud Mastery**
 
-| Category | Services |
-|------------------------|----------------------------------------------------------------------------------------------------|
-| 🖥️ **Compute** | ![EC2](https://img.shields.io/badge/-EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white) ![Elastic Beanstalk](https://img.shields.io/badge/-Elastic%20Beanstalk-569A31?style=flat-square&logo=awslambda&logoColor=white) |
-| 💾 **Storage & DBs** | ![S3](https://img.shields.io/badge/-S3-569A31?style=flat-square&logo=amazons3&logoColor=white) ![RDS](https://img.shields.io/badge/-RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white) ![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white) ![ECR](https://img.shields.io/badge/-ECR-FF9900?style=flat-square&logo=docker&logoColor=white) |
-| 🌐 **Networking & APIs**| ![API Gateway](https://img.shields.io/badge/-API%20Gateway-FF4F00?style=flat-square&logo=apachespark&logoColor=white) ![Lambda](https://img.shields.io/badge/-Lambda-FE7A16?style=flat-square&logo=awslambda&logoColor=white) ![Cognito](https://img.shields.io/badge/-Cognito-3B5998?style=flat-square&logo=amazon&logoColor=white) |
-| 🧱 **Infra as Code** | ![CloudFormation](https://img.shields.io/badge/-CloudFormation-D93F0B?style=flat-square&logo=awscloud&logoColor=white) |
-| 🔔 **Messaging & Events** | ![SQS](https://img.shields.io/badge/-SQS-232F3E?style=flat-square&logo=amazonsqs&logoColor=white) ![SNS](https://img.shields.io/badge/-SNS-FF9900?style=flat-square&logo=amazon&logoColor=white) ![Kinesis](https://img.shields.io/badge/-Kinesis-3F75FF?style=flat-square&logo=amazonkinesis&logoColor=white) |
-| 🔐 **Security & IAM** | ![IAM](https://img.shields.io/badge/-IAM-232F3E?style=flat-square&logo=amazon&logoColor=white) ![KMS](https://img.shields.io/badge/-KMS-FFB300?style=flat-square&logo=security&logoColor=white) ![SSM](https://img.shields.io/badge/-SSM-7952B3?style=flat-square&logo=amazons3&logoColor=white) ![Encryption SDK](https://img.shields.io/badge/-Encryption%20SDK-006400?style=flat-square&logo=security&logoColor=white) |
-| 🔍 **Monitoring & Logging** | ![CloudWatch](https://img.shields.io/badge/-CloudWatch-FF4F00?style=flat-square&logo=amazoncloudwatch&logoColor=white) ![X-Ray](https://img.shields.io/badge/-X--Ray-232F3E?style=flat-square&logo=amazon&logoColor=white) ![CloudTrail](https://img.shields.io/badge/-CloudTrail-0052CC?style=flat-square&logo=amazon&logoColor=white) |
-| 🛠️ **Dev Tools** | ![AWS CLI](https://img.shields.io/badge/-AWS%20CLI-232F3E?style=flat-square&logo=windows-terminal&logoColor=white) ![AWS SDK](https://img.shields.io/badge/-AWS%20SDK-FF9900?style=flat-square&logo=python&logoColor=white) ![CI/CD](https://img.shields.io/badge/-CodePipeline%20%7C%20CodeDeploy-FF9900?style=flat-square&logo=githubactions&logoColor=white) |
+<div align="center">
 
----
+![AWS](https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-## 🧠 **Architecture & Design Patterns**
+</div>
+
+<details open>
+<summary><b>🏗️ My AWS Architecture</b></summary>
+
+```mermaid
+graph TB
+    subgraph "🌐 Frontend Layer"
+        CF[CloudFront CDN]
+        S3[S3 Static Hosting]
+    end
+    
+    subgraph "⚡ Application Layer"
+        ALB[Application Load Balancer]
+        EC2[EC2 Instances]
+        EBS[Elastic Beanstalk]
+        LAMBDA[Lambda Functions]
+    end
+    
+    subgraph "🗄️ Data Layer" 
+        RDS[(RDS Database)]
+        DYNAMO[(DynamoDB)]
+        REDIS[(ElastiCache Redis)]
+        S3DATA[S3 Data Storage]
+    end
+    
+    subgraph "🔒 Security & Monitoring"
+        IAM[IAM Roles & Policies]
+        KMS[KMS Encryption]
+        CW[CloudWatch]
+        XRAY[X-Ray Tracing]
+    end
+    
+    subgraph "📨 Communication"
+        SQS[SQS Queues]
+        SNS[SNS Topics] 
+        KINESIS[Kinesis Streams]
+        APIGW[API Gateway]
+    end
+    
+    CF --> ALB
+    S3 --> CF
+    ALB --> EC2
+    ALB --> EBS
+    APIGW --> LAMBDA
+    EC2 --> RDS
+    EC2 --> DYNAMO
+    EC2 --> REDIS
+    LAMBDA --> S3DATA
+    
+    style CF fill:#ff6b6b
+    style ALB fill:#4ecdc4  
+    style RDS fill:#45b7d1
+    style LAMBDA fill:#f9ca24
+    style IAM fill:#6c5ce7
+```
+
+</details>
+
+| **Category** | **Services & Expertise** |
+|:------------:|:-------------------------|
+| 🖥️ **Compute** | ![EC2](https://img.shields.io/badge/-EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white) ![Lambda](https://img.shields.io/badge/-Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white) ![Elastic Beanstalk](https://img.shields.io/badge/-Elastic%20Beanstalk-232F3E?style=flat-square&logo=amazon&logoColor=white) ![ECS](https://img.shields.io/badge/-ECS-FF9900?style=flat-square&logo=amazonecs&logoColor=white) |
+| 💾 **Storage & DBs** | ![S3](https://img.shields.io/badge/-S3-569A31?style=flat-square&logo=amazons3&logoColor=white) ![RDS](https://img.shields.io/badge/-RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white) ![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white) ![ECR](https://img.shields.io/badge/-ECR-FF9900?style=flat-square&logo=docker&logoColor=white) ![ElastiCache](https://img.shields.io/badge/-ElastiCache-C925D1?style=flat-square&logo=redis&logoColor=white) |
+| 🌐 **Networking** | ![VPC](https://img.shields.io/badge/-VPC-FF9900?style=flat-square&logo=amazon&logoColor=white) ![CloudFront](https://img.shields.io/badge/-CloudFront-232F3E?style=flat-square&logo=amazon&logoColor=white) ![Route53](https://img.shields.io/badge/-Route53-F68D2E?style=flat-square&logo=amazon&logoColor=white) ![ELB](https://img.shields.io/badge/-Load%20Balancer-8C4FFF?style=flat-square&logo=amazon&logoColor=white) |
+| 🔔 **Integration** | ![API Gateway](https://img.shields.io/badge/-API%20Gateway-FF4F00?style=flat-square&logo=amazon&logoColor=white) ![SQS](https://img.shields.io/badge/-SQS-FF9900?style=flat-square&logo=amazonsqs&logoColor=white) ![SNS](https://img.shields.io/badge/-SNS-FF9900?style=flat-square&logo=amazon&logoColor=white) ![Kinesis](https://img.shields.io/badge/-Kinesis-8C4FFF?style=flat-square&logo=amazon&logoColor=white) |
+| 🔐 **Security** | ![IAM](https://img.shields.io/badge/-IAM-DD344C?style=flat-square&logo=amazon&logoColor=white) ![KMS](https://img.shields.io/badge/-KMS-FFB300?style=flat-square&logo=amazon&logoColor=white) ![Cognito](https://img.shields.io/badge/-Cognito-FF9900?style=flat-square&logo=amazon&logoColor=white) ![SSM](https://img.shields.io/badge/-SSM-0066CC?style=flat-square&logo=amazon&logoColor=white) |
+| 🔍 **Monitoring** | ![CloudWatch](https://img.shields.io/badge/-CloudWatch-FF4F00?style=flat-square&logo=amazoncloudwatch&logoColor=white) ![X-Ray](https://img.shields.io/badge/-X--Ray-FF9900?style=flat-square&logo=amazon&logoColor=white) ![CloudTrail](https://img.shields.io/badge/-CloudTrail-326CE5?style=flat-square&logo=amazon&logoColor=white) |
+| 🛠️ **DevOps** | ![CodePipeline](https://img.shields.io/badge/-CodePipeline-FF9900?style=flat-square&logo=amazon&logoColor=white) ![CodeDeploy](https://img.shields.io/badge/-CodeDeploy-FF9900?style=flat-square&logo=amazon&logoColor=white) ![CloudFormation](https://img.shields.io/badge/-CloudFormation-FF9900?style=flat-square&logo=amazon&logoColor=white) ![CDK](https://img.shields.io/badge/-CDK-FF9900?style=flat-square&logo=amazon&logoColor=white) |
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🏗️ **Architectural Philosophy**
 
 <div align="center">
 
 ```mermaid
-graph LR
-    A[🏗️ Clean Architecture] --> B[Domain-Driven Design]
-    A --> C[SOLID Principles]
-    A --> D[Design Patterns]
+graph TD
+    A[🎯 Clean Architecture] --> B[Domain Layer]
+    A --> C[Application Layer] 
+    A --> D[Infrastructure Layer]
+    A --> E[Presentation Layer]
     
-    B --> B1[Entities & Aggregates]
-    B --> B2[Value Objects]
-    B --> B3[Repositories]
+    B --> B1[🧩 Entities]
+    B --> B2[🎭 Value Objects]
+    B --> B3[📋 Business Rules]
     
-    C --> C1[Single Responsibility]
-    C --> C2[Open/Closed]
-    C --> C3[Dependency Inversion]
+    C --> C1[⚙️ Use Cases]
+    C --> C2[🔧 Services]
+    C --> C3[🚪 Interfaces]
     
-    D --> D1[Factory Pattern]
-    D --> D2[Repository Pattern]
-    D --> D3[Strategy Pattern]
-    D --> D4[Observer Pattern]
+    D --> D1[🗄️ Repositories]
+    D --> D2[🌐 External APIs]
+    D --> D3[💾 Database]
     
-    style A fill:#6366f1,stroke:#4f46e5,stroke-width:3px,color:#fff
-    style B fill:#8b5cf6,stroke:#7c3aed,stroke-width:2px,color:#fff
-    style C fill:#06b6d4,stroke:#0891b2,stroke-width:2px,color:#fff
-    style D fill:#10b981,stroke:#059669,stroke-width:2px,color:#fff
+    E --> E1[🖥️ Controllers]
+    E --> E2[📡 API Endpoints]
+    E --> E3[🎨 UI Components]
+    
+    style A fill:#667eea,stroke:#764ba2,stroke-width:4px,color:#fff
+    style B fill:#f093fb,stroke:#f5576c,stroke-width:2px,color:#fff
+    style C fill:#4facfe,stroke:#00f2fe,stroke-width:2px,color:#fff
+    style D fill:#43e97b,stroke:#38f9d7,stroke-width:2px,color:#fff
+    style E fill:#ffecd2,stroke:#fcb69f,stroke-width:2px,color:#000
 ```
 
 </div>
 
+### **🎨 Design Principles**
+
+<table align="center">
+<tr>
+<td width="25%" align="center">
+
+**🧩 Domain-Driven Design**
+<br><br>
+Building business-centric applications with rich domain models and clear bounded contexts
+
+</td>
+<td width="25%" align="center">
+
+**🏛️ Clean Architecture**
+<br><br>
+Dependency inversion and separation of concerns for maintainable, testable systems
+
+</td>
+<td width="25%" align="center">
+
+**🔧 SOLID Principles**
+<br><br>
+Writing flexible, extensible code following industry best practices
+
+</td>
+<td width="25%" align="center">
+
+**🎯 Design Patterns**
+<br><br>
+Repository, Factory, Strategy, Observer, and Decorator patterns implementation
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 📊 **Performance Dashboard**
+
 <div align="center">
 
-### **🎯 Design Philosophy**
+<table>
+<tr>
+<td>
 
-| **Principle** | **Implementation** |
-|:-------------:|:-------------------|
-| 🧩 **Domain-Driven Design** | Building business-oriented applications with clear bounded contexts and rich domain models |
-| 🏛️ **Clean Architecture** | Separating concerns with dependency inversion and testable, maintainable code structures |
-| 🔧 **SOLID Principles** | Writing flexible, extensible code that's easy to modify and understand |
-| 🎨 **Design Patterns** | Applying proven solutions like Repository, Factory, Strategy, and Observer patterns |
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=firdavs244&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=20&border_color=667eea&icon_color=f093fb&title_color=667eea&text_color=c9d1d9"/>
+
+</td>
+<td>
+
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=firdavs244&layout=compact&langs_count=12&theme=radical&border_radius=20&border_color=667eea&title_color=667eea&text_color=c9d1d9"/>
+
+</td>
+</tr>
+</table>
 
 </div>
 
----
-
-## 📊 **GitHub Analytics**
-
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=firdavs244&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=15&border_color=6366f1"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=firdavs244&layout=compact&langs_count=8&theme=tokyonight&border_radius=15&border_color=6366f1"/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=firdavs244&theme=radical&border_radius=20&border=667eea&ring=f093fb&fire=ffa726&currStreakLabel=667eea&sideLabels=667eea&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=c9d1d9)](https://git.io/streak-stats)
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=firdavs244&theme=tokyonight&border_radius=15&border=6366f1&ring=6366f1&fire=f59e0b&currStreakLabel=6366f1)](https://git.io/streak-stats)
+### **🏆 Achievements & Contributions**
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=firdavs244&theme=react-dark&bg_color=0d1117&color=667eea&line=f093fb&point=ffa726&area=true&hide_border=true)
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🎯 **Current Focus Areas**
+## 🎯 **Current Learning Journey**
 
 <div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### **🚀 Focus Areas 2024**
 
 ```yaml
-learning_path:
-  current_goals:
-    - "🏗️ Mastering Microservices Architecture"
-    - "☁️ Advanced Cloud-Native Development"
-    - "🔄 Perfecting CI/CD Automation"
-    - "🧪 Test-Driven Development"
+current_mastery:
+  architecture:
+    - "🏗️ Microservices Design Patterns"
+    - "🌊 Event-Driven Architecture"
+    - "🔄 CQRS & Event Sourcing"
+    - "🛡️ Zero-Trust Security Models"
   
-  technologies_exploring:
-    - "🦀 Rust for Systems Programming"
-    - "⚡ Event-Driven Architecture"
-    - "🔒 Zero-Trust Security Models"
+  cloud_native:
+    - "☁️ Serverless Architecture"
     - "📊 Observability & Monitoring"
+    - "🚀 GitOps & Infrastructure as Code"
+    - "🔧 Service Mesh (Istio)"
   
-  interests:
-    - "🌟 Open Source Contributions"
-    - "📝 Technical Writing & Blogging"
-    - "🎤 Tech Community Speaking"
+  emerging_tech:
+    - "🦀 Rust for Performance"
+    - "🧠 AI/ML Integration"
+    - "🔗 Blockchain Development"
+    - "🌐 Web3 Technologies"
 ```
 
+</td>
+<td width="50%">
+
+### **📚 Learning Progress**
+
+```mermaid
+pie title Tech Focus Distribution
+    "Backend Architecture" : 35
+    "Cloud & DevOps" : 25
+    "Security & Performance" : 20
+    "Frontend & UX" : 15
+    "Emerging Technologies" : 5
+```
+
+**🎯 Current Goals:**
+- 🏆 AWS Solutions Architect Certification
+- 📖 Contributing to Open Source Projects
+- 🎤 Speaking at Tech Conferences
+- ✍️ Technical Blog Writing
+- 🤝 Mentoring Junior Developers
+
+</td>
+</tr>
+</table>
+
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🤝 **Let's Connect & Collaborate**
+## 🌟 **Let's Build Something Amazing Together**
 
 <div align="center">
 
-### **💬 Always Open To:**
-**🚀 Exciting Projects** • **🤝 Collaborations** • **💡 Knowledge Sharing** • **🌱 Mentoring**
+### **💫 Always Open For:**
 
+<table>
+<tr>
+<td align="center" width="25%">
+
+**🚀**
 <br>
+**Exciting Projects**
+<br>
+*Scalable applications with modern architecture*
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/firdavskholov)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/firdavskholov)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://firdavskholov.dev)
+</td>
+<td align="center" width="25%">
+
+**🤝**
+<br>
+**Collaborations**
+<br>
+*Open source contributions and partnerships*
+
+</td>
+<td align="center" width="25%">
+
+**💡**
+<br>
+**Knowledge Sharing**
+<br>
+*Tech talks, mentoring, and workshops*
+
+</td>
+<td align="center" width="25%">
+
+**🌱**
+<br>
+**Innovation**
+<br>
+*Exploring cutting-edge technologies*
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<div align="center">
+
+### **📫 Get In Touch**
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://linkedin.com/in/firdavskholov)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2)](https://twitter.com/firdavskholov)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF5722)](https://firdavskholov.dev)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2CA5E0)](https://t.me/firdavskholov)
+
+</div>
+
+<div align="center">
+
+### **💝 Support My Work**
+
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/firdavskholov)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/firdavskholov)
+[![GitHub Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/firdavs244)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+
+### **🎭 "Code is poetry, architecture is art, and innovation is the canvas"**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer&text=Thanks%20for%20visiting%20my%20universe!&fontSize=20&fontColor=fff&animation=twinkling&fontAlignY=75"/>
 
 </div>
 
@@ -240,8 +522,8 @@ learning_path:
 
 <div align="center">
 
-### **🎨 "Building the future, one commit at a time"**
+**⭐ If you find my work interesting, please consider giving it a star!**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=fff&animation=twinkling"/>
+![Snake animation](https://github.com/firdavs244/firdavs244/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
