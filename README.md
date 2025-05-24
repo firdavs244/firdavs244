@@ -407,19 +407,18 @@ current_mastery:
 
 ```mermaid
 pie title Tech Focus Distribution
-    "Backend Architecture" : 35
-    "Cloud & DevOps" : 25
+    "Backend Architecture" : 45
+    "Cloud & DevOps" : 20
     "Security & Performance" : 20
-    "Frontend & UX" : 15
+    "Frontend & UX" : 10
     "Emerging Technologies" : 5
 ```
 
 **🎯 Current Goals:**
 - 🏆 AWS Solutions Architect Certification
+- 🎓 CKA (Certified Kubernetes Administrator) 😁 
 - 📖 Contributing to Open Source Projects
-- 🎤 Speaking at Tech Conferences
-- ✍️ Technical Blog Writing
-- 🤝 Mentoring Junior Developers
+- 🌎 Improving English Proficiency
 
 </td>
 </tr>
