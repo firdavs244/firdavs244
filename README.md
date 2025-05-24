@@ -1,14 +1,8 @@
 # 🚀 Welcome to My Digital Universe
 
 <div align="center">
-  
-![Header Animation](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=300&section=header&text=Firdavs%20Kholov&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Backend%20%26%20Full-Stack%20Architect&descAlignY=65&descSize=22)
 
-</div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=500&color=667EEA&center=true&vCenter=true&multiline=true&width=1000&height=200&lines=%E2%9A%A1+Crafting+Digital+Experiences;%F0%9F%8F%97%EF%B8%8F+Building+Scalable+Architecture;%F0%9F%94%92+Securing+Applications;%E2%98%81%EF%B8%8F+Cloud-Native+Solutions;%F0%9F%9A%80+Always+Innovating)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=500&color=667EEA&center=true&vCenter=true&multiline=true&width=1000&height=210&lines=%E2%9A%A1+Crafting+Digital+Experiences;%F0%9F%8F%97%EF%B8%8F+Building+Scalable+Architecture;%F0%9F%94%92+Securing+Applications;%E2%98%81%EF%B8%8F+Cloud-Native+Solutions;%F0%9F%9A%80+Always+Innovating)](https://git.io/typing-svg)
 
 </div>
 
