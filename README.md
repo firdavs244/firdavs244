@@ -488,7 +488,7 @@ pie title Tech Focus Distribution
 
 <div align="center">
 
-### **🎭 "Code is poetry, architecture is art, and innovation is the canvas"**
+### **🎭 "Code is more than just technology — it's a way of thinking, architecture is art, and innovation is the canvas"**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer&text=Thanks%20for%20visiting%20my%20universe!&fontSize=20&fontColor=fff&animation=twinkling&fontAlignY=75"/>
 
