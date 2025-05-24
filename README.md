@@ -2,13 +2,13 @@
 
 <div align="center">
   
-![Header Animation](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=300&section=header&text=Firdavs%20Kholov&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Backend%20%26%20Full-Stack%20Architect&descAlignY=55&descSize=20)
+![Header Animation](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=300&section=header&text=Firdavs%20Kholov&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Backend%20%26%20Full-Stack%20Architect&descAlignY=65&descSize=22)
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=500&color=667EEA&center=true&vCenter=true&multiline=true&width=1000&height=150&lines=%E2%9A%A1+Crafting+Digital+Experiences;%F0%9F%8F%97%EF%B8%8F+Building+Scalable+Architecture;%F0%9F%94%92+Securing+Applications;%E2%98%81%EF%B8%8F+Cloud-Native+Solutions;%F0%9F%9A%80+Always+Innovating)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=500&color=667EEA&center=true&vCenter=true&multiline=true&width=1000&height=200&lines=%E2%9A%A1+Crafting+Digital+Experiences;%F0%9F%8F%97%EF%B8%8F+Building+Scalable+Architecture;%F0%9F%94%92+Securing+Applications;%E2%98%81%EF%B8%8F+Cloud-Native+Solutions;%F0%9F%9A%80+Always+Innovating)](https://git.io/typing-svg)
 
 </div>
 
@@ -83,9 +83,6 @@ mindmap
       🔧 DevOps
     Frontend
       ⚛️ React
-      🎨 Modern CSS
-      📱 Responsive
-      🌟 UX/UI
     Database
       🗄️ SQL/NoSQL
       🔍 Optimization
@@ -112,7 +109,7 @@ mindmap
 | **Core** | **Frameworks** | **Styling** |
 |:--------:|:--------------:|:-----------:|
 | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) | ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) |
 
 </div>
 
@@ -148,7 +145,7 @@ mindmap
 | **Relational** | **NoSQL** | **Caching** |
 |:--------------:|:---------:|:-----------:|
 | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) | ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) |
-| ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) | ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white) | ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white) |
+| ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) | ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white) |
 | ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) | |
 
 </div>
@@ -171,7 +168,6 @@ mindmap
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ### **🌐 Web Servers & Networking**
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
@@ -182,7 +178,6 @@ mindmap
 ### **🐧 Operating Systems**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![CentOS](https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white)
 
 </div>
 
