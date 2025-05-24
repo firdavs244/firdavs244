@@ -191,7 +191,7 @@ mindmap
 <summary><b>🏗️ My AWS Architecture</b></summary>
 
 ```mermaid
-graph TB
+graph LR
     subgraph "🌐 Frontend Layer"
         CF[CloudFront CDN]
         S3[S3 Static Hosting]
