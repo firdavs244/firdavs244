@@ -478,15 +478,6 @@ pie title Tech Focus Distribution
 
 </div>
 
-<div align="center">
-
-### **📫 Get In Touch**
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:your.xolovfirdavs@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2CA5E0)](https://t.me/Kholov_Firdavs)
-
-</div>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
