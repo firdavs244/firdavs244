@@ -1,87 +1,262 @@
-# 👋 Hi there! I'm Firdavs Kholov.
+# 👋 Hi there! I'm **Firdavs Kholov**
 
-🎯 I'm a backend and full-stack web developer  
-⚡️ I build secure, scalable, and efficient applications using Laravel, Django, PostgreSQL, Docker, and other modern tools.  
-🌱 Currently diving deeper into DevOps, Microservices, and cloud-based architecture.
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Backend+%26+Full-Stack+Developer;Building+Scalable+%26+Secure+Applications;Always+Learning+%26+Growing)](https://git.io/typing-svg)
+
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=firdavskholov&color=6366f1&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/firdavskholov?color=6366f1&style=for-the-badge&logo=github&label=Followers" alt="GitHub Followers" />
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 **About Me**
 
-### 💻 Frontend  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+```typescript
+const firdavs: Developer = {
+  name: "Firdavs Kholov",
+  role: "Backend & Full-Stack Developer",
+  location: "🌍 Remote",
+  passion: ["Clean Code", "Scalable Architecture", "Innovation"],
+  currentFocus: [
+    "🏗️ Microservices Architecture",
+    "☁️ Cloud-Native Applications", 
+    "🔄 DevOps & CI/CD Automation",
+    "🧠 System Design Patterns"
+  ],
+  motto: "Code is more than technology — it's a way of thinking 💭"
+};
+```
 
-### 🧠 Backend  
+<div align="center">
+
+### 🎯 **Core Expertise**
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+
+**🏗️ Backend Architecture**
+<br>
+Building robust, scalable APIs and microservices with clean architecture principles
+
+</td>
+<td align="center" width="33%">
+
+**☁️ Cloud & DevOps**
+<br>
+Deploying and managing applications on AWS with Docker, Kubernetes, and CI/CD
+
+</td>
+<td align="center" width="33%">
+
+**🔒 Security & Performance**
+<br>
+Implementing secure authentication, optimization, and monitoring solutions
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ **Tech Arsenal**
+
+<div align="center">
+
+### **💻 Languages & Frameworks**
+
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white)
-![Lumen](https://img.shields.io/badge/Lumen-E74430?style=for-the-badge&logo=laravel&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/DRF-red?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-### 🧩 Databases  
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### **🗄️ Databases & Caching**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### ⚙️ DevOps & Tools  
+### **☁️ Cloud & Infrastructure**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Docker Swarm](https://img.shields.io/badge/Swarm-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+### **🔧 Tools & DevOps**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### ☁️ Cloud & Services
-
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-| Category                | Services                                                                                           |
-|------------------------|----------------------------------------------------------------------------------------------------|
-| 🖥️ **Compute**         | ![EC2](https://img.shields.io/badge/-EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white) ![Elastic Beanstalk](https://img.shields.io/badge/-Elastic%20Beanstalk-569A31?style=flat-square&logo=awslambda&logoColor=white) |
-| 💾 **Storage & DBs**   | ![S3](https://img.shields.io/badge/-S3-569A31?style=flat-square&logo=amazons3&logoColor=white) ![RDS](https://img.shields.io/badge/-RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white) ![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white) ![ECR](https://img.shields.io/badge/-ECR-FF9900?style=flat-square&logo=docker&logoColor=white) |
-| 🌐 **Networking & APIs**| ![API Gateway](https://img.shields.io/badge/-API%20Gateway-FF4F00?style=flat-square&logo=apachespark&logoColor=white) ![Lambda](https://img.shields.io/badge/-Lambda-FE7A16?style=flat-square&logo=awslambda&logoColor=white) ![Cognito](https://img.shields.io/badge/-Cognito-3B5998?style=flat-square&logo=amazon&logoColor=white) |
-| 🧱 **Infra as Code**   | ![CloudFormation](https://img.shields.io/badge/-CloudFormation-D93F0B?style=flat-square&logo=awscloud&logoColor=white) |
-| 🔔 **Messaging & Events** | ![SQS](https://img.shields.io/badge/-SQS-232F3E?style=flat-square&logo=amazonsqs&logoColor=white) ![SNS](https://img.shields.io/badge/-SNS-FF9900?style=flat-square&logo=amazon&logoColor=white) ![Kinesis](https://img.shields.io/badge/-Kinesis-3F75FF?style=flat-square&logo=amazonkinesis&logoColor=white) |
-| 🔐 **Security & IAM**  | ![IAM](https://img.shields.io/badge/-IAM-232F3E?style=flat-square&logo=amazon&logoColor=white) ![KMS](https://img.shields.io/badge/-KMS-FFB300?style=flat-square&logo=security&logoColor=white) ![SSM](https://img.shields.io/badge/-SSM-7952B3?style=flat-square&logo=amazons3&logoColor=white) ![Encryption SDK](https://img.shields.io/badge/-Encryption%20SDK-006400?style=flat-square&logo=security&logoColor=white) |
-| 🔍 **Monitoring & Logging** | ![CloudWatch](https://img.shields.io/badge/-CloudWatch-FF4F00?style=flat-square&logo=amazoncloudwatch&logoColor=white) ![X-Ray](https://img.shields.io/badge/-X--Ray-232F3E?style=flat-square&logo=amazon&logoColor=white) ![CloudTrail](https://img.shields.io/badge/-CloudTrail-0052CC?style=flat-square&logo=amazon&logoColor=white) |
-| 🛠️ **Dev Tools**       | ![AWS CLI](https://img.shields.io/badge/-AWS%20CLI-232F3E?style=flat-square&logo=windows-terminal&logoColor=white) ![AWS SDK](https://img.shields.io/badge/-AWS%20SDK-FF9900?style=flat-square&logo=python&logoColor=white) ![CI/CD](https://img.shields.io/badge/-CodePipeline%20%7C%20CodeDeploy-FF9900?style=flat-square&logo=githubactions&logoColor=white) |
-
-
-## 🧱 Software Architecture & Design
-
-### 🧩 Design & Architecture
-
-| 🧠 Concepts                  | 💡 Description |
-|-----------------------------|----------------|
-| ![DDD](https://img.shields.io/badge/-DDD-%23007ACC?style=flat&logo=databricks&logoColor=white) | **Domain-Driven Design** — Experienced in entity modeling, aggregates, value objects, repositories, services, and bounded contexts to build business-oriented applications. |
-| ![MVC](https://img.shields.io/badge/-MVC-%23FF5722?style=flat&logo=laravel&logoColor=white) | **Model-View-Controller** — Applied in both Laravel and Django to enforce clean separation of concerns for scalable and maintainable codebases. |
-| ![Clean Code](https://img.shields.io/badge/-Clean%20Code-%2300C853?style=flat&logo=leaflet&logoColor=white) | **Clean Code Principles** — Follow SOLID principles, meaningful naming, small functions, and readability-first practices to ensure maintainability and testability. |
-
-### 🧰 Design Patterns I Use
-
-![Factory](https://img.shields.io/badge/-Factory%20Pattern-%236A1B9A?style=flat&logo=codefactor&logoColor=white) ![Repository](https://img.shields.io/badge/-Repository-%232E7D32?style=flat&logo=git&logoColor=white) ![Strategy](https://img.shields.io/badge/-Strategy-%23005588?style=flat&logo=strapi&logoColor=white) 
-![Observer](https://img.shields.io/badge/-Observer-%23F57C00?style=flat&logo=graphql&logoColor=white) ![Singleton](https://img.shields.io/badge/-Singleton-%239C27B0?style=flat&logo=circle&logoColor=white) ![Service Layer](https://img.shields.io/badge/-Service%20Layer-%230094FF?style=flat&logo=datadog&logoColor=white)
+</div>
 
 ---
 
-## 📈 What I'm Currently Focusing On
+## 🏗️ **AWS Services I Work With**
 
-- Deepening my knowledge of microservice architecture  
-- Improving CI/CD pipelines using Docker and GitHub Actions  
-- Contributing to open-source projects and writing clean, testable code
+<div align="center">
+
+<table>
+<tr>
+<td align="center"><strong>🖥️ Compute</strong></td>
+<td align="center"><strong>💾 Storage & Databases</strong></td>
+<td align="center"><strong>🌐 Networking & APIs</strong></td>
+</tr>
+<tr>
+<td align="center">
+  <img src="https://img.shields.io/badge/-EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/-Elastic_Beanstalk-232F3E?style=flat-square&logo=amazon&logoColor=white" />
+</td>
+<td align="center">
+  <img src="https://img.shields.io/badge/-S3-569A31?style=flat-square&logo=amazons3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/-DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/-ECR-FF9900?style=flat-square&logo=docker&logoColor=white" />
+</td>
+<td align="center">
+  <img src="https://img.shields.io/badge/-API_Gateway-FF4F00?style=flat-square&logo=amazonapigateway&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/-CloudFormation-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/-CloudWatch-FF4F00?style=flat-square&logo=amazoncloudwatch&logoColor=white" />
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-> 🎯 “Code is more than just technology — it's a way of thinking.”
+## 🧠 **Architecture & Design Patterns**
+
+<div align="center">
+
+```mermaid
+graph LR
+    A[🏗️ Clean Architecture] --> B[Domain-Driven Design]
+    A --> C[SOLID Principles]
+    A --> D[Design Patterns]
+    
+    B --> B1[Entities & Aggregates]
+    B --> B2[Value Objects]
+    B --> B3[Repositories]
+    
+    C --> C1[Single Responsibility]
+    C --> C2[Open/Closed]
+    C --> C3[Dependency Inversion]
+    
+    D --> D1[Factory Pattern]
+    D --> D2[Repository Pattern]
+    D --> D3[Strategy Pattern]
+    D --> D4[Observer Pattern]
+    
+    style A fill:#6366f1,stroke:#4f46e5,stroke-width:3px,color:#fff
+    style B fill:#8b5cf6,stroke:#7c3aed,stroke-width:2px,color:#fff
+    style C fill:#06b6d4,stroke:#0891b2,stroke-width:2px,color:#fff
+    style D fill:#10b981,stroke:#059669,stroke-width:2px,color:#fff
+```
+
+</div>
+
+<div align="center">
+
+### **🎯 Design Philosophy**
+
+| **Principle** | **Implementation** |
+|:-------------:|:-------------------|
+| 🧩 **Domain-Driven Design** | Building business-oriented applications with clear bounded contexts and rich domain models |
+| 🏛️ **Clean Architecture** | Separating concerns with dependency inversion and testable, maintainable code structures |
+| 🔧 **SOLID Principles** | Writing flexible, extensible code that's easy to modify and understand |
+| 🎨 **Design Patterns** | Applying proven solutions like Repository, Factory, Strategy, and Observer patterns |
+
+</div>
+
+---
+
+## 📊 **GitHub Analytics**
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=firdavskholov&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=15&border_color=6366f1"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=firdavskholov&layout=compact&langs_count=8&theme=tokyonight&border_radius=15&border_color=6366f1"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=firdavskholov&theme=tokyonight&border_radius=15&border=6366f1&ring=6366f1&fire=f59e0b&currStreakLabel=6366f1)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🎯 **Current Focus Areas**
+
+<div align="center">
+
+```yaml
+learning_path:
+  current_goals:
+    - "🏗️ Mastering Microservices Architecture"
+    - "☁️ Advanced Cloud-Native Development"
+    - "🔄 Perfecting CI/CD Automation"
+    - "🧪 Test-Driven Development"
+  
+  technologies_exploring:
+    - "🦀 Rust for Systems Programming"
+    - "⚡ Event-Driven Architecture"
+    - "🔒 Zero-Trust Security Models"
+    - "📊 Observability & Monitoring"
+  
+  interests:
+    - "🌟 Open Source Contributions"
+    - "📝 Technical Writing & Blogging"
+    - "🎤 Tech Community Speaking"
+```
+
+</div>
+
+---
+
+## 🤝 **Let's Connect & Collaborate**
+
+<div align="center">
+
+### **💬 Always Open To:**
+**🚀 Exciting Projects** • **🤝 Collaborations** • **💡 Knowledge Sharing** • **🌱 Mentoring**
+
+<br>
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/firdavskholov)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/firdavskholov)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://firdavskholov.dev)
+
+</div>
+
+---
+
+<div align="center">
+
+### **🎨 "Building the future, one commit at a time"**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=fff&animation=twinkling"/>
+
+</div>
