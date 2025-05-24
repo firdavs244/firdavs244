@@ -112,41 +112,20 @@ Implementing secure authentication, optimization, and monitoring solutions
 
 ---
 
-## 🏗️ **AWS Services I Work With**
+## ☁️ **Cloud & Services**
 
-<div align="center">
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-<table>
-<tr>
-<td align="center"><strong>🖥️ Compute</strong></td>
-<td align="center"><strong>💾 Storage & Databases</strong></td>
-<td align="center"><strong>🌐 Networking & APIs</strong></td>
-</tr>
-<tr>
-<td align="center">
-  <img src="https://img.shields.io/badge/-EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/-Elastic_Beanstalk-232F3E?style=flat-square&logo=amazon&logoColor=white" />
-</td>
-<td align="center">
-  <img src="https://img.shields.io/badge/-S3-569A31?style=flat-square&logo=amazons3&logoColor=white" />
-  <img src="https://img.shields.io/badge/-RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/-DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/-ECR-FF9900?style=flat-square&logo=docker&logoColor=white" />
-</td>
-<td align="center">
-  <img src="https://img.shields.io/badge/-API_Gateway-FF4F00?style=flat-square&logo=amazonapigateway&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/-CloudFormation-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/-CloudWatch-FF4F00?style=flat-square&logo=amazoncloudwatch&logoColor=white" />
-</td>
-</tr>
-</table>
-
-</div>
+| Category | Services |
+|------------------------|----------------------------------------------------------------------------------------------------|
+| 🖥️ **Compute** | ![EC2](https://img.shields.io/badge/-EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white) ![Elastic Beanstalk](https://img.shields.io/badge/-Elastic%20Beanstalk-569A31?style=flat-square&logo=awslambda&logoColor=white) |
+| 💾 **Storage & DBs** | ![S3](https://img.shields.io/badge/-S3-569A31?style=flat-square&logo=amazons3&logoColor=white) ![RDS](https://img.shields.io/badge/-RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white) ![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white) ![ECR](https://img.shields.io/badge/-ECR-FF9900?style=flat-square&logo=docker&logoColor=white) |
+| 🌐 **Networking & APIs**| ![API Gateway](https://img.shields.io/badge/-API%20Gateway-FF4F00?style=flat-square&logo=apachespark&logoColor=white) ![Lambda](https://img.shields.io/badge/-Lambda-FE7A16?style=flat-square&logo=awslambda&logoColor=white) ![Cognito](https://img.shields.io/badge/-Cognito-3B5998?style=flat-square&logo=amazon&logoColor=white) |
+| 🧱 **Infra as Code** | ![CloudFormation](https://img.shields.io/badge/-CloudFormation-D93F0B?style=flat-square&logo=awscloud&logoColor=white) |
+| 🔔 **Messaging & Events** | ![SQS](https://img.shields.io/badge/-SQS-232F3E?style=flat-square&logo=amazonsqs&logoColor=white) ![SNS](https://img.shields.io/badge/-SNS-FF9900?style=flat-square&logo=amazon&logoColor=white) ![Kinesis](https://img.shields.io/badge/-Kinesis-3F75FF?style=flat-square&logo=amazonkinesis&logoColor=white) |
+| 🔐 **Security & IAM** | ![IAM](https://img.shields.io/badge/-IAM-232F3E?style=flat-square&logo=amazon&logoColor=white) ![KMS](https://img.shields.io/badge/-KMS-FFB300?style=flat-square&logo=security&logoColor=white) ![SSM](https://img.shields.io/badge/-SSM-7952B3?style=flat-square&logo=amazons3&logoColor=white) ![Encryption SDK](https://img.shields.io/badge/-Encryption%20SDK-006400?style=flat-square&logo=security&logoColor=white) |
+| 🔍 **Monitoring & Logging** | ![CloudWatch](https://img.shields.io/badge/-CloudWatch-FF4F00?style=flat-square&logo=amazoncloudwatch&logoColor=white) ![X-Ray](https://img.shields.io/badge/-X--Ray-232F3E?style=flat-square&logo=amazon&logoColor=white) ![CloudTrail](https://img.shields.io/badge/-CloudTrail-0052CC?style=flat-square&logo=amazon&logoColor=white) |
+| 🛠️ **Dev Tools** | ![AWS CLI](https://img.shields.io/badge/-AWS%20CLI-232F3E?style=flat-square&logo=windows-terminal&logoColor=white) ![AWS SDK](https://img.shields.io/badge/-AWS%20SDK-FF9900?style=flat-square&logo=python&logoColor=white) ![CI/CD](https://img.shields.io/badge/-CodePipeline%20%7C%20CodeDeploy-FF9900?style=flat-square&logo=githubactions&logoColor=white) |
 
 ---
 
