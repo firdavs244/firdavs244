@@ -7,8 +7,8 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=firdavskholov&color=6366f1&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/firdavskholov?color=6366f1&style=for-the-badge&logo=github&label=Followers" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=firdavs244&color=6366f1&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/firdavs244?color=6366f1&style=for-the-badge&logo=github&label=Followers" alt="GitHub Followers" />
 </div>
 
 ---
@@ -194,14 +194,14 @@ graph LR
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=firdavskholov&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=15&border_color=6366f1"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=firdavskholov&layout=compact&langs_count=8&theme=tokyonight&border_radius=15&border_color=6366f1"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=firdavs244&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=15&border_color=6366f1"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=firdavs244&layout=compact&langs_count=8&theme=tokyonight&border_radius=15&border_color=6366f1"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=firdavskholov&theme=tokyonight&border_radius=15&border=6366f1&ring=6366f1&fire=f59e0b&currStreakLabel=6366f1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=firdavs244&theme=tokyonight&border_radius=15&border=6366f1&ring=6366f1&fire=f59e0b&currStreakLabel=6366f1)](https://git.io/streak-stats)
 
 </div>
 
@@ -245,9 +245,9 @@ learning_path:
 <br>
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/firdavskholov)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/firdavskholov)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://firdavskholov.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/firdavs244)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/firdavs244)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://firdavs244.dev)
 
 </div>
 
