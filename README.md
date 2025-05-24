@@ -261,7 +261,7 @@ graph TB
 <div align="center">
 
 ```mermaid
-graph TD
+graph LR
     A[🎯 Clean Architecture] --> B[Domain Layer]
     A --> C[Application Layer] 
     A --> D[Infrastructure Layer]
