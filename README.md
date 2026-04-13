@@ -53,7 +53,7 @@
 [![LinkedIn](https://img.shields.io/badge/Firdavs_Kholov-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/firdavs-kholov)
 [![Telegram](https://img.shields.io/badge/Firdavs_Kholov-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/firdavs_kholov)
 [![Gmail](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:firdavskholov@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://firdavskholov.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://fromcodetocloud.uz)
 
 </div>
 
